@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lf3advocacia.com.br/sitemap.xml
