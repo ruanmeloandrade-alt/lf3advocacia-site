@@ -4,7 +4,7 @@ Site estático recuperado do backup da Hostinger de 03/11/2026.
 
 ## Publicação
 
-GitHub Actions e GitHub Pages estão desativados por solicitação do responsável. Não habilitar workflows, Actions ou Pages. A hospedagem pública alternativa ainda depende de definição; o repositório guarda os arquivos preparados para publicação.
+Publicação no GitHub Pages a partir da branch `migration/github-pages`, diretório raiz, no domínio `lf3advocacia.com.br`. Em 05/11/2026, o responsável autorizou expressamente o GitHub Pages e sua execução interna de publicação. Não há workflows próprios neste repositório. As permissões de Actions estão limitadas às ações oficiais do GitHub.
 
 ## Conteúdo
 
@@ -27,4 +27,4 @@ O painel administrativo WordPress não funciona nesta versão estática. Altera�
 - Página inicial, página imobiliária e formulário conferidos no navegador interno.
 - Menu móvel testado em largura de 390 pixels.
 - Formulário abriu o destinatário e a mensagem esperados no WhatsApp, sem envio de mensagem.
-- Disponibilidade pública no domínio original ainda não validada.
+- Disponibilidade pública e certificado HTTPS verificados separadamente após a publicação.
